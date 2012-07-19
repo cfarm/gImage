@@ -11,7 +11,7 @@ To use it in your project::
 
     from gimage import get_image_url
 
-    print get_image_url("sarah silverman")
+    print get_image_url("nina simone")
 
 
 `on github <http://github.com/pthrasher/gimage>`_.
